@@ -1,6 +1,6 @@
 {
   "name": "soyidom",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Compiles Soy Templates to Incremental DOM calls",
   "main": "index.js",
   "scripts": {
