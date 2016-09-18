@@ -1,6 +1,6 @@
 {
   "name": "soyidom",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Compiles Soy Templates to Incremental DOM calls",
   "main": "index.js",
   "scripts": {
@@ -11,6 +11,10 @@
     "name": "Sergio Mercado",
     "email": "zerghiomario@gmail.com",
     "url": "https://github.com/smercadomx"
+  },
+  "repository" : {
+    "type" : "git",
+    "url" : "https://github.com/smercadomx/soyidom.git"
   },
   "license": "MIT",
   "dependencies": {
